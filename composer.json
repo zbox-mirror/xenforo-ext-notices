@@ -1,5 +1,5 @@
 {
-  "name": "cmfstore/xenforo-notices",
+  "name": "cmfstore/xenforo-ext-notices",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
@@ -24,8 +24,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-notices/issues",
-    "source": "https://github.com/cmfstore/xenforo-notices"
+    "issues": "https://github.com/cmfstore/xenforo-ext-notices/issues",
+    "source": "https://github.com/cmfstore/xenforo-ext-notices"
   },
   "require": {
     "composer/installers": "^1.9"
