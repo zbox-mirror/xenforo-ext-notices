@@ -1,9 +1,9 @@
 {
-  "name": "cmfstore/xenforo-ext-notices",
+  "name": "zmarket/xenforo-ext-notices",
   "type": "xenforo-extension",
   "description": "",
   "license": "MIT",
-  "homepage": "https://github.com/cmfstore",
+  "homepage": "https://z17.dev/",
   "keywords": [
     "xenforo",
     "notices",
@@ -24,8 +24,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/cmfstore/xenforo-ext-notices/issues",
-    "source": "https://github.com/cmfstore/xenforo-ext-notices"
+    "issues": "https://github.com/zbox/xenforo-ext-notices/issues",
+    "source": "https://github.com/zbox/xenforo-ext-notices"
   },
   "require": {
     "composer/installers": "^1.9"
